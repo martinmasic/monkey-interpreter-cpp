@@ -1,0 +1,7 @@
+#+title: Readme
+
+* Readme
+
+** Description
+
+This project aims to implement an interpreter for the 'dummy' language called Monkey, as described in the book 'Writing an interpreter in Go' by Thrornsten Ball. Instead of using the Go language, I'll be using C++.
